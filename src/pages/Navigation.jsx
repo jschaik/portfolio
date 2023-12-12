@@ -5,10 +5,10 @@ const Navigation = () => {
       <nav className='nav'>
         <ul>
           <li>
-            <Link to='/home'>Home</Link>
+            <Link to='/portfolio/home'>Home</Link>
           </li>
           <li>
-            <Link to='/about'>About</Link>
+            <Link to='/portfolio/about'>About</Link>
           </li>
         </ul>
       </nav>
